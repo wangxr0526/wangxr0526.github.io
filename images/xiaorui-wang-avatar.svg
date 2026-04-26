@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Xiaorui Wang academic avatar</title>
+  <desc id="desc">A monogram avatar with molecular network motifs.</desc>
+  <rect width="512" height="512" rx="112" fill="#f7f4ed"/>
+  <path d="M70 379c72-34 105-88 134-143 35-66 68-129 164-147 31-6 57-5 76-1" fill="none" stroke="#1f5f5b" stroke-width="18" stroke-linecap="round"/>
+  <path d="M83 137c65 31 106 76 145 119 42 47 82 91 148 104 29 6 52 4 68-1" fill="none" stroke="#b56b3f" stroke-width="14" stroke-linecap="round" opacity=".9"/>
+  <g fill="#1f5f5b">
+    <circle cx="91" cy="379" r="22"/>
+    <circle cx="203" cy="239" r="18"/>
+    <circle cx="367" cy="89" r="24"/>
+  </g>
+  <g fill="#b56b3f">
+    <circle cx="84" cy="137" r="19"/>
+    <circle cx="245" cy="274" r="15"/>
+    <circle cx="394" cy="360" r="21"/>
+  </g>
+  <text x="256" y="290" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="138" font-weight="700" fill="#15272b">XW</text>
+  <text x="256" y="344" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" letter-spacing="0" fill="#4b5563">AI4CHEM</text>
+</svg>

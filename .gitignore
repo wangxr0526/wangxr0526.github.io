@@ -1,3 +1,7 @@
 _site/
 push.sh
 .DS_Store
+.pip-cache/
+.pydeps-cv/
+.venv-cv/
+cv_output/
