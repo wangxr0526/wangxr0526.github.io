@@ -185,11 +185,3 @@ During my master's studies, doctoral study, and postdoctoral research, I have de
 
 </div>
 
-<span class="anchor" id="cv"></span>
-
-# CV / 简历下载
-
-<div class="cv-download-panel">
-  <a class="cv-button cv-button--primary" href="files/Xiaorui_Wang_Academic_CV_Bilingual.pdf" download>Download bilingual academic CV PDF</a>
-  <a class="cv-button" href="files/Xiaorui_Wang_Academic_CV_Bilingual.docx" download>Download editable DOCX</a>
-</div>
