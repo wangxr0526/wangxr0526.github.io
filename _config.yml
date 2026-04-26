@@ -22,12 +22,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xiaorui Wang | 王晓瑞"
-  avatar           : "images/xiaorui-wang-avatar.svg"
+  avatar           : "images/xiaorui-wang.jpg"
   bio              : "Postdoctoral Fellow, College of Pharmaceutical Sciences, Zhejiang University"
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
   pubmed           : 
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=uyN1Gf4AAAAJ"
   email            : "wangxr2018@lzu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Xiaorui-Wang-6"
   uri              :
