@@ -135,9 +135,9 @@ During my master's studies, doctoral study, and postdoctoral research, I have de
 - **2026.01-2028.12** Young Scientists Fund, 22503082, Principal Investigator, RMB 300,000.<br>
   青年科学基金项目，22503082，主持，30 万。项目：基于人工智能的混合酶促-有机合成规划算法研究与智能应用平台开发。
 - **2024.10-2026.10** National Postdoctoral Researcher Funding Program, Category C, GZC20252369, Principal Investigator, RMB 240,000.<br>
-  国家资助博士后研究人员计划 C，GZC20252369，主持，24 万。项目：基于人工智能的混合酶促-有机合成规划算法研究与智能应用平台开发。
-- **2024.10-Present** Ministry of Education Special Funding for Overseas Talent Recruitment for Postdoctoral Researchers, Principal Investigator, RMB 900,000.<br>
-  教育部博士后海外引才专项资助，主持，90 万。
+  国家资助博士后研究人员计划 C，GZC20252369，主持，24 万。
+- **2024.10-Present** Ministry of Education Special Funding for Overseas Talent Recruitment for Postdoctoral Researchers.<br>
+  教育部博士后海外引才专项资助。
 
 </div>
 
@@ -152,8 +152,6 @@ During my master's studies, doctoral study, and postdoctoral research, I have de
 - ChemistGA: a genetic algorithm-based molecular generation algorithm.
 - CODD-PRED: an integrated small-molecule target identification and bioactivity prediction platform.
 - Egret: a reaction yield prediction model enhanced by contrastive learning strategies.
-- IFGN: a graph neural network-based molecular property prediction model.
-- Some algorithms have been integrated into DrugFlow, a one-stop drug design platform for international users.
 
 # Patent / 授权发明专利
 
