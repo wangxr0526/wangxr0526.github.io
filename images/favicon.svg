@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">AI chemistry favicon</title>
+  <desc id="desc">A molecular ring and synthetic biology helix for Xiaorui Wang's academic homepage.</desc>
+  <rect width="512" height="512" rx="112" fill="#142d2b"/>
+  <g opacity=".16" stroke="#f8f1df" stroke-width="2">
+    <path d="M64 84h384M64 180h384M64 276h384M64 372h384M84 64v384M180 64v384M276 64v384M372 64v384"/>
+  </g>
+  <path d="M256 115c92 50 92 246 0 296" fill="none" stroke="#71b7a6" stroke-width="11" stroke-linecap="round"/>
+  <path d="M256 115c-92 50-92 246 0 296" fill="none" stroke="#d58655" stroke-width="11" stroke-linecap="round"/>
+  <g stroke="#d8b85d" stroke-width="6" stroke-linecap="round" opacity=".78">
+    <path d="M219 143h74M181 181h150M165 219h182M177 257h158M210 295h92M256 333h0"/>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M379 185v142L256 398 133 327V185l123-71z" stroke="#f8f1df" stroke-width="22"/>
+    <path d="M379 185 133 327M133 185l246 142M256 114v284" stroke="#71b7a6" stroke-width="9"/>
+    <path d="M133 185 256 398M379 185 256 398" stroke="#d58655" stroke-width="9"/>
+  </g>
+  <g>
+    <circle cx="379" cy="185" r="24" fill="#d8b85d"/>
+    <circle cx="379" cy="327" r="24" fill="#f8f1df"/>
+    <circle cx="256" cy="398" r="24" fill="#d58655"/>
+    <circle cx="133" cy="327" r="24" fill="#f8f1df"/>
+    <circle cx="133" cy="185" r="24" fill="#71b7a6"/>
+    <circle cx="256" cy="114" r="24" fill="#f8f1df"/>
+    <circle cx="379" cy="185" r="10" fill="#142d2b"/>
+    <circle cx="379" cy="327" r="10" fill="#142d2b"/>
+    <circle cx="256" cy="398" r="10" fill="#142d2b"/>
+    <circle cx="133" cy="327" r="10" fill="#142d2b"/>
+    <circle cx="133" cy="185" r="10" fill="#142d2b"/>
+    <circle cx="256" cy="114" r="10" fill="#142d2b"/>
+  </g>
+  <path d="m170 368 86-64 86 64" fill="none" stroke="#fbf7ec" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m342 368-30-12 17-25z" fill="#fbf7ec"/>
+  <text x="256" y="462" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="82" font-weight="700" fill="#f8f1df">XW</text>
+</svg>
