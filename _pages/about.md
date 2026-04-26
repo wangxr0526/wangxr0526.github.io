@@ -16,8 +16,6 @@ redirect_from:
   <p class="cv-hero__lead">Postdoctoral Fellow at the College of Pharmaceutical Sciences, Zhejiang University. My research focuses on AI-assisted synthesis planning, enzymatic catalysis prediction, and AI-driven molecular generation for drug discovery.</p>
   <p class="cv-hero__lead-cn">浙江大学药学院博士后，主要研究方向包括人工智能辅助合成规划、酶催化相关预测方法和人工智能驱动的分子生成方法。</p>
   <div class="cv-hero__actions">
-    <a class="cv-button cv-button--primary" href="files/Xiaorui_Wang_Academic_CV_Bilingual.pdf" download>Download CV PDF</a>
-    <a class="cv-button" href="files/Xiaorui_Wang_Academic_CV_Bilingual.docx" download>Download DOCX</a>
     <a class="cv-button" href="mailto:wangxr2018@lzu.edu.cn">Email</a>
     <a class="cv-button" href="https://www.researchgate.net/profile/Xiaorui-Wang-6">ResearchGate</a>
     <a class="cv-button" href="https://scholar.google.com/citations?user=uyN1Gf4AAAAJ">Google Scholar</a>
