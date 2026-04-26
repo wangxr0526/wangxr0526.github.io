@@ -20,11 +20,12 @@ redirect_from:
     <a class="cv-button" href="files/Xiaorui_Wang_Academic_CV_Bilingual.docx" download>Download DOCX</a>
     <a class="cv-button" href="mailto:wangxr2018@lzu.edu.cn">Email</a>
     <a class="cv-button" href="https://www.researchgate.net/profile/Xiaorui-Wang-6">ResearchGate</a>
+    <a class="cv-button" href="https://scholar.google.com/citations?user=uyN1Gf4AAAAJ">Google Scholar</a>
   </div>
   <div class="cv-metrics">
     <div><strong>39</strong><span>SCI Papers</span></div>
     <div><strong>11</strong><span>First/Co-first Author Papers</span></div>
-    <div><strong>900+</strong><span>Google Scholar Citations</span></div>
+    <div><strong>1100+</strong><span>Google Scholar Citations</span></div>
     <div><strong>1</strong><span>Granted Patent</span></div>
   </div>
 </section>
