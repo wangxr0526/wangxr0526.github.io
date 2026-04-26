@@ -36,6 +36,8 @@ During my master's studies, doctoral study, and postdoctoral research, I have de
 
 # News / 近期动态
 
+- **2026.04** I have accepted an Assistant Professor offer from the Faculty of Synthetic Biology, Shenzhen University of Advanced Technology (SUAT), and will join in late September 2026. My future group will recruit Ph.D. students, master's students, and research assistant professor candidates. Prospective students and early-career researchers interested in AI for Chemistry, synthesis planning, enzymatic catalysis, and synthetic biology are warmly encouraged to get in touch.<br>
+  **2026.04** 我已获得深圳理工大学合成生物学院助理教授 offer，预计将于 2026 年 9 月底入职。未来课题组将面向 AI for Chemistry、合成规划、酶催化与合成生物学交叉方向招收博士生、硕士生及研究助理教授，欢迎感兴趣的同学和青年学者咨询交流。
 - **2026.01** Young Scientists Fund project approved: AI-based hybrid enzymatic-organic synthesis planning algorithms and intelligent application platform development.
 - **2025.06** Invention patent CN116227485B granted for a reaction condition prediction model training method and device.
 - **2025** Hybrid organic-enzymatic synthesis planning platform paper published in *Nature Communications*.
@@ -183,4 +185,3 @@ During my master's studies, doctoral study, and postdoctoral research, I have de
 | 2014.09-2018.06 | Lanzhou University | College of Chemistry and Chemical Engineering | Chemistry (Base Class) | B.S. |
 
 </div>
-
