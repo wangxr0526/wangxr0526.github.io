@@ -30,9 +30,9 @@ redirect_from:
 
 # About / 个人简介
 
-During my master's studies, doctoral study, and postdoctoral research, I have developed computational methods and platforms for AI-aided chemistry. My work connects deep learning, reaction informatics, protein representation learning, graph neural networks, reinforcement learning, and practical tool development for synthesis planning and molecular discovery.
+During my master's studies, doctoral study, and postdoctoral research, I have developed computational methods and platforms for AI-aided chemistry. I am conducting postdoctoral research with Prof. Tingjun Hou, and my doctoral and master's research were supervised by Prof. Xiaojun Yao. My work connects deep learning, reaction informatics, protein representation learning, graph neural networks, reinforcement learning, and practical tool development for synthesis planning and molecular discovery.
 
-在硕士阶段、攻读博士学位和从事博士后研究期间，我围绕人工智能化学方法和平台开展研究，工作内容覆盖深度学习、反应信息学、蛋白质表征学习、图神经网络、强化学习，以及面向合成规划和分子发现的高性能工具开发。
+在硕士阶段、攻读博士学位和从事博士后研究期间，我围绕人工智能化学方法和平台开展研究。博士后阶段师从浙江大学侯廷军教授，博士和硕士阶段师从姚小军教授。工作内容覆盖深度学习、反应信息学、蛋白质表征学习、图神经网络、强化学习，以及面向合成规划和分子发现的高性能工具开发。
 
 # News / 近期动态
 
