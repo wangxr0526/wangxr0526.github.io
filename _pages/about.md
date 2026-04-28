@@ -180,7 +180,7 @@ During my master's studies, doctoral study, and postdoctoral research, I have de
 |---|---|---|---|---|
 | 2024.09-Present | Zhejiang University | College of Pharmaceutical Sciences | Pharmacy | Postdoctoral Fellow, cooperating advisor: Prof. Tingjun Hou |
 | 2021.09-2024.08 | Macau University of Science and Technology | Faculty of Chinese Medicine | Chinese Materia Medica | Ph.D., advisor: Prof. Xiaojun Yao |
-| 2019.11-2021.06 | Tencent | Quantum Laboratory | -- | Research Intern |
+| 2019.11-2021.06 | Tencent | Quantum Laboratory | -- | Research Intern, advisor: Dr. Chang-Yu Hsieh |
 | 2018.09-2021.06 | Lanzhou University | College of Chemistry and Chemical Engineering | Chemoinformatics | M.S., advisor: Prof. Xiaojun Yao |
 | 2014.09-2018.06 | Lanzhou University | College of Chemistry and Chemical Engineering | Chemistry (Base Class) | B.S. |
 
