@@ -146,13 +146,13 @@ During my master's studies, doctoral study, and postdoctoral research, I have de
 
 # Research Tools and Platforms / 工具与平台
 
-- ChemEnzyRetroPlanner: an agent-centered hybrid enzymatic-organic synthesis route planning platform.
-- EasIFA and EasIFA2.0 WebServer: multimodal deep learning-driven enzyme active-site annotation systems.
-- RetroPrime: a Transformer-based single-step retrosynthesis prediction algorithm.
-- Parrot: an autoregressive general reaction condition recommendation tool.
-- ChemistGA: a genetic algorithm-based molecular generation algorithm.
-- CODD-PRED: an integrated small-molecule target identification and bioactivity prediction platform.
-- Egret: a reaction yield prediction model enhanced by contrastive learning strategies.
+- [ChemEnzyRetroPlanner](https://cadd.zju.edu.cn/retroplanner/): an agent-centered hybrid enzymatic-organic synthesis route planning platform.
+- [EasIFA GitHub repository](https://github.com/wangxr0526/EasIFA) and [EasIFA2.0 WebServer](https://cadd.zju.edu.cn/easifa/): multimodal deep learning-driven enzyme active-site annotation systems.
+- [RetroPrime](https://github.com/wangxr0526/RetroPrime): a Transformer-based single-step retrosynthesis prediction algorithm.
+- [Parrot](https://github.com/wangxr0526/Parrot): an autoregressive general reaction condition recommendation tool.
+- [ChemistGA](https://github.com/jkwang93/ChemistGA): a genetic algorithm-based molecular generation algorithm.
+- [CODD-PRED](https://codd.iddd.group/): an integrated small-molecule target identification and bioactivity prediction platform.
+- [Egret](https://github.com/xiaodanyin/Egret): a reaction yield prediction model enhanced by contrastive learning strategies.
 
 # Patent / 授权发明专利
 
