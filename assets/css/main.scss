@@ -271,7 +271,7 @@ body {
 
 .research-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: 1fr;
   gap: 1rem;
   margin: 1.25rem 0;
 }
@@ -359,7 +359,6 @@ body {
 }
 
 @media (max-width: 900px) {
-  .research-grid,
   .cv-metrics {
     grid-template-columns: 1fr 1fr;
   }
