@@ -20,9 +20,9 @@ redirect_from:
     <a class="cv-button" href="https://scholar.google.com/citations?user=uyN1Gf4AAAAJ">Google Scholar</a>
   </div>
   <div class="cv-metrics">
-    <div><strong>39</strong><span>SCI 论文</span></div>
+    <div><strong id="total_pub">39</strong><span>发表论文</span></div>
     <div><strong>11</strong><span>第一/共同第一作者论文</span></div>
-    <div><strong>1100+</strong><span>Google Scholar 引用</span></div>
+    <div><strong id="total_cit">1100+</strong><span>Google Scholar 引用</span></div>
     <div><strong>1</strong><span>授权发明专利</span></div>
   </div>
 </section>
@@ -66,7 +66,7 @@ redirect_from:
 
 # 科研成果
 
-**概况。** 已发表 SCI 论文 39 篇，其中第一作者及共同第一作者论文 11 篇；以第一/共同第一作者在 *Nature Communications* 发表论文 2 篇。`#` 表示共同第一作者，`*` 表示通讯作者。
+**概况。** 已发表论文 <span id="total_pub_summary">39</span> 篇，其中第一作者及共同第一作者论文 11 篇；以第一/共同第一作者在 *Nature Communications* 发表论文 2 篇。`#` 表示共同第一作者，`*` 表示通讯作者。
 
 ## 第一及共同第一作者论文
 
