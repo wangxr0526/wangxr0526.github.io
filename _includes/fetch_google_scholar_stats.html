@@ -1,11 +1,17 @@
 <script>
     $(document).ready(function () {
         {% if site.google_scholar_stats_use_cdn %}
-        var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@'
+        var gsDataUrls = [
+            'https://cdn.jsdelivr.net/gh/{{ site.repository }}@google-scholar-stats/gs_data.json',
+            'https://raw.githubusercontent.com/{{ site.repository }}/google-scholar-stats/gs_data.json'
+        ];
         {% else %}
-        var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
+        var gsDataUrls = [
+            'https://raw.githubusercontent.com/{{ site.repository }}/google-scholar-stats/gs_data.json'
+        ];
         {% endif %}
-        $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
+
+        function updateScholarStats(data) {
             function setElementText(id, value) {
                 var element = document.getElementById(id);
                 if (element && value !== undefined && value !== null) {
@@ -29,6 +35,18 @@
                     element.innerHTML = '| 引用: ' + numCitations;
                 }
             });
-        });
+        }
+
+        function fetchScholarStats(index) {
+            $.getJSON(gsDataUrls[index] + '?v=' + Date.now())
+                .done(updateScholarStats)
+                .fail(function () {
+                    if (index + 1 < gsDataUrls.length) {
+                        fetchScholarStats(index + 1);
+                    }
+                });
+        }
+
+        fetchScholarStats(0);
     })
 </script>
