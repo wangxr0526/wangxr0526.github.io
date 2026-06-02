@@ -13,8 +13,7 @@ lang: en
   <h1>Xiaorui Wang</h1>
   <p class="cv-hero__lead">Postdoctoral researcher at the College of Pharmaceutical Sciences, Zhejiang University, working on AI-assisted synthesis planning, enzyme catalysis prediction, and AI-driven molecular generation for drug discovery.</p>
   <div class="cv-hero__actions">
-    <a class="cv-button" href="mailto:wangxr2018@lzu.edu.cn">Email</a>
-    <a class="cv-button" href="mailto:wangxr0526@zju.edu.cn">ZJU Email</a>
+    <a class="cv-button" href="mailto:wangxr199605@gmail.com">Email</a>
     <a class="cv-button" href="https://www.researchgate.net/profile/Xiaorui-Wang-6">ResearchGate</a>
     <a class="cv-button" href="https://scholar.google.com/citations?user=uyN1Gf4AAAAJ">Google Scholar</a>
   </div>
@@ -32,7 +31,7 @@ I am currently a postdoctoral researcher at the College of Pharmaceutical Scienc
 
 # News
 
-- **2026.04** I have received an intended appointment as Assistant Professor at the Institute of Synthetic Biology, Shenzhen University of Advanced Technology, and expect to start by the end of September 2026. The future group will recruit PhD students, master's students, research assistant professors, and research assistants in AI for Chemistry, enzyme catalysis, and synthetic biology. Interested students and early-career researchers are welcome to contact me at [wangxr0526@zju.edu.cn](mailto:wangxr0526@zju.edu.cn).
+- **2026.04** I have received an intended appointment as Assistant Professor at the Institute of Synthetic Biology, Shenzhen University of Advanced Technology, and expect to start by the end of September 2026. The future group will recruit PhD students, master's students, research assistant professors, and research assistants in AI for Chemistry, enzyme catalysis, and synthetic biology. Interested students and early-career researchers are welcome to contact me at [wangxr199605@gmail.com](mailto:wangxr199605@gmail.com).
 - **2026.01** Principal investigator of the Young Scientists Fund project: AI-based hybrid enzymatic-organic synthesis planning algorithms and intelligent application platform development.
 - **2025.06** Invention patent CN116227485B was granted: "A training method and apparatus for reaction condition prediction models."
 - **2025** Our work on a hybrid enzymatic-organic synthesis planning platform was published in *Nature Communications*.

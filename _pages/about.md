@@ -16,8 +16,7 @@ redirect_from:
   <h1>王晓瑞</h1>
   <p class="cv-hero__lead">浙江大学药学院博士后，主要从事人工智能辅助合成规划、酶催化预测和面向药物发现的人工智能分子生成方法研究。</p>
   <div class="cv-hero__actions">
-    <a class="cv-button" href="mailto:wangxr2018@lzu.edu.cn">邮箱</a>
-    <a class="cv-button" href="mailto:wangxr0526@zju.edu.cn">浙江大学邮箱</a>
+    <a class="cv-button" href="mailto:wangxr199605@gmail.com">邮箱</a>
     <a class="cv-button" href="https://www.researchgate.net/profile/Xiaorui-Wang-6">ResearchGate</a>
     <a class="cv-button" href="https://scholar.google.com/citations?user=uyN1Gf4AAAAJ">Google Scholar</a>
   </div>
@@ -35,7 +34,7 @@ redirect_from:
 
 # 近期动态
 
-- **2026.04** 已获得深圳理工大学合成生物学院助理教授聘任意向，预计于 2026 年 9 月底入职。未来课题组将面向 AI for Chemistry、酶催化与合成生物学交叉方向招收博士生、硕士生、研究助理教授以及科研助理，欢迎感兴趣的同学和青年学者通过邮箱 [wangxr0526@zju.edu.cn](mailto:wangxr0526@zju.edu.cn) 咨询交流。
+- **2026.04** 已获得深圳理工大学合成生物学院助理教授聘任意向，预计于 2026 年 9 月底入职。未来课题组将面向 AI for Chemistry、酶催化与合成生物学交叉方向招收博士生、硕士生、研究助理教授以及科研助理，欢迎感兴趣的同学和青年学者通过邮箱 [wangxr199605@gmail.com](wangxr199605@gmail.com) 咨询交流。
 - **2026.01** 主持青年科学基金项目：基于人工智能的混合酶促-有机合成规划算法研究与智能应用平台开发。
 - **2025.06** 发明专利 CN116227485B 获得授权，专利名称为“一种反应条件预测模型训练方法及装置”。
 - **2025** 混合酶促-有机合成规划平台相关论文发表于 *Nature Communications*。
