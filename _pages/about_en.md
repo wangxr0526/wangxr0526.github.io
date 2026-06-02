@@ -2,32 +2,52 @@
 permalink: /en/
 title: ""
 excerpt: ""
-author_profile: true
+author_profile: false
 lang: en
 ---
 
 <span class="anchor" id="about-me"></span>
 
 <section class="cv-hero">
-  <div class="cv-hero__eyebrow">AI for Chemistry · Synthesis Planning · Enzyme Catalysis</div>
-  <h1>Xiaorui Wang</h1>
-  <p class="cv-hero__lead">Postdoctoral researcher at the College of Pharmaceutical Sciences, Zhejiang University, working on AI-assisted synthesis planning, enzyme catalysis prediction, and AI-driven molecular generation for drug discovery.</p>
-  <div class="cv-hero__actions">
-    <a class="cv-button" href="mailto:wangxr199605@gmail.com">Email</a>
-    <a class="cv-button" href="https://www.researchgate.net/profile/Xiaorui-Wang-6">ResearchGate</a>
-    <a class="cv-button" href="https://scholar.google.com/citations?user=uyN1Gf4AAAAJ">Google Scholar</a>
-  </div>
-  <div class="cv-metrics">
-    <div><strong id="total_pub">39</strong><span>Publications</span></div>
-    <div><strong>11</strong><span>First/co-first author papers</span></div>
-    <div><strong id="total_cit">1100+</strong><span>Google Scholar citations</span></div>
-    <div><strong>1</strong><span>Granted invention patent</span></div>
+  <div class="cv-hero__profile">
+    <div class="cv-hero__copy">
+      <div class="cv-hero__eyebrow">AI for Chemistry · Synthesis Planning · Enzyme Catalysis</div>
+      <h1>Xiaorui Wang</h1>
+      <p class="cv-hero__lead">Postdoctoral researcher at the College of Pharmaceutical Sciences, Zhejiang University, working on AI-assisted synthesis planning, enzyme catalysis prediction, and specialized scientific agents for drug discovery.</p>
+      <p class="cv-hero__meta">Hangzhou, China · Zhejiang University</p>
+      <div class="cv-hero__actions">
+        <a class="cv-button" href="mailto:wangxr199605@gmail.com">Email</a>
+        <a class="cv-button" href="https://www.researchgate.net/profile/Xiaorui-Wang-6">ResearchGate</a>
+        <a class="cv-button" href="https://scholar.google.com/citations?user=uyN1Gf4AAAAJ">Google Scholar</a>
+        <a class="cv-button" href="https://github.com/wangxr0526">GitHub</a>
+      </div>
+    </div>
+    <div class="cv-hero__portrait">
+      <img src="{{ '/images/xiaorui-wang.jpg' | relative_url }}" alt="Xiaorui Wang">
+    </div>
   </div>
 </section>
 
 # About
 
-I am currently a postdoctoral researcher at the College of Pharmaceutical Sciences, Zhejiang University, working with Prof. Tingjun Hou. I completed my doctoral and master's research under the supervision of Prof. Xiaojun Yao. My research has long focused on AI-driven chemical methods and computational platforms across my master's, doctoral, and postdoctoral training. My work integrates deep learning, reaction informatics, protein representation learning, graph neural networks, reinforcement learning, and tool development for applications in synthesis planning, enzyme catalysis prediction, and molecular discovery.
+I am currently a postdoctoral researcher at the College of Pharmaceutical Sciences, Zhejiang University, working with Prof. Tingjun Hou. I completed my doctoral and master's research under the supervision of Prof. Xiaojun Yao. My main research interests are AI-assisted drug design and intelligent chemistry, with a particular focus on AI-assisted synthesis planning, enzyme catalysis-related prediction, and specialized scientific agents. My work integrates machine learning, cheminformatics, and bioinformatics to develop algorithmic models and application platforms for single-step retrosynthesis prediction, reaction condition recommendation, multistep synthesis planning, enzyme active site annotation, and enzyme function prediction. I have led projects including the Young Scientists Fund of the National Natural Science Foundation of China and the National Postdoctoral Researcher Program, Category C. I have published <span id="total_pub_summary">39</span> SCI papers in journals including *Nat. Commun.*, *Chem. Rev.*, *Research*, *Chem. Eng. J.*, *J. Med. Chem.*, and *J. Chem. Inf. Model.*, including 11 first-author or co-first-author papers and 2 papers in Nature Portfolio journals; these works have received <strong id="total_cit">1100+</strong> citations.
+
+<div class="experience-list" markdown="1">
+
+### Research and Education Experience
+
+
+2024.09-present, Zhejiang University, College of Pharmaceutical Sciences, Pharmaceutical Sciences, Postdoctoral researcher, advisor: Prof. Tingjun Hou
+
+2021.09-2024.08, Macau University of Science and Technology, Faculty of Chinese Medicine, Chinese Medicine, PhD student, advisor: Prof. Xiaojun Yao
+
+2019.11-2021.06, Tencent, Quantum Laboratory, Research intern, advisor: Dr. Chang-Yu Hsieh
+
+2018.09-2021.06, Lanzhou University, College of Chemistry and Chemical Engineering, Chemoinformatics, Master's student, advisor: Prof. Xiaojun Yao
+
+2014.09-2018.06, Lanzhou University, College of Chemistry and Chemical Engineering, Chemistry (Base Class), Undergraduate student
+
+</div>
 
 # News
 
@@ -64,7 +84,7 @@ I am interested in developing specialized scientific agents for synthesis planni
 
 # Publications
 
-**Overview.** I have published <span id="total_pub_summary">39</span> papers, including 11 first-author or co-first-author papers, with 2 first/co-first-author papers in *Nature Communications*. `#` denotes co-first authorship, and `*` denotes corresponding authorship.
+`#` denotes co-first authorship, and `*` denotes corresponding authorship.
 
 ## First-Author and Co-First-Author Papers
 
@@ -156,17 +176,3 @@ I am interested in developing specialized scientific agents for synthesis planni
 - **2018-2021** Graduate Academic Scholarship, Lanzhou University.
 - **2017.10** Third Prize Undergraduate Scholarship, Lanzhou University.
 - **2017.09** Outstanding Graduate Training Scholarship, Lanzhou University.
-
-# Education and Research Experience
-
-<div class="edu-table" markdown="1">
-
-| Period | Institution | School/Department | Field | Experience |
-|---|---|---|---|---|
-| 2024.09-present | Zhejiang University | College of Pharmaceutical Sciences | Pharmaceutical Sciences | Postdoctoral researcher, advisor: Prof. Tingjun Hou |
-| 2021.09-2024.08 | Macau University of Science and Technology | Faculty of Chinese Medicine | Chinese Medicine | PhD student, advisor: Prof. Xiaojun Yao |
-| 2019.11-2021.06 | Tencent | Quantum Laboratory | -- | Research intern, advisor: Dr. Chang-Yu Hsieh |
-| 2018.09-2021.06 | Lanzhou University | College of Chemistry and Chemical Engineering | Chemoinformatics | Master's student, advisor: Prof. Xiaojun Yao |
-| 2014.09-2018.06 | Lanzhou University | College of Chemistry and Chemical Engineering | Chemistry | Undergraduate student |
-
-</div>

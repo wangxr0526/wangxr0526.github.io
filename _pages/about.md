@@ -2,7 +2,7 @@
 permalink: /
 title: ""
 excerpt: ""
-author_profile: true
+author_profile: false
 lang: zh-CN
 redirect_from:
   - /about/
@@ -12,25 +12,46 @@ redirect_from:
 <span class="anchor" id="about-me"></span>
 
 <section class="cv-hero">
-  <div class="cv-hero__eyebrow">AI for Chemistry · 合成规划 · 酶催化</div>
-  <h1>王晓瑞</h1>
-  <p class="cv-hero__lead">浙江大学药学院博士后，主要从事人工智能辅助合成规划、酶催化预测和面向药物发现的人工智能分子生成方法研究。</p>
-  <div class="cv-hero__actions">
-    <a class="cv-button" href="mailto:wangxr199605@gmail.com">邮箱</a>
-    <a class="cv-button" href="https://www.researchgate.net/profile/Xiaorui-Wang-6">ResearchGate</a>
-    <a class="cv-button" href="https://scholar.google.com/citations?user=uyN1Gf4AAAAJ">Google Scholar</a>
-  </div>
-  <div class="cv-metrics">
-    <div><strong id="total_pub">39</strong><span>发表论文</span></div>
-    <div><strong>11</strong><span>第一/共同第一作者论文</span></div>
-    <div><strong id="total_cit">1100+</strong><span>Google Scholar 引用</span></div>
-    <div><strong>1</strong><span>授权发明专利</span></div>
+  <div class="cv-hero__profile">
+    <div class="cv-hero__copy">
+      <div class="cv-hero__eyebrow">AI for Chemistry · 合成规划 · 酶催化</div>
+      <h1>王晓瑞</h1>
+      <p class="cv-hero__lead">浙江大学药学院博士后，主要从事人工智能辅助合成规划、酶催化预测和面向药物发现的专业智能体方法研究。</p>
+      <p class="cv-hero__meta">中国杭州 · 浙江大学</p>
+      <div class="cv-hero__actions">
+        <a class="cv-button" href="mailto:wangxr199605@gmail.com">邮箱</a>
+        <a class="cv-button" href="https://www.researchgate.net/profile/Xiaorui-Wang-6">ResearchGate</a>
+        <a class="cv-button" href="https://scholar.google.com/citations?user=uyN1Gf4AAAAJ">Google Scholar</a>
+        <a class="cv-button" href="https://github.com/wangxr0526">GitHub</a>
+      </div>
+    </div>
+    <div class="cv-hero__portrait">
+      <img src="{{ '/images/xiaorui-wang.jpg' | relative_url }}" alt="王晓瑞">
+    </div>
   </div>
 </section>
 
 # 个人简介
 
-我现于浙江大学药学院从事博士后研究工作，师从侯廷军教授；博士和硕士阶段师从姚小军教授。在硕士、博士及博士后研究阶段长期围绕人工智能化学方法与平台开展研究。研究工作聚焦深度学习、反应信息学、蛋白质表征学习、图神经网络、强化学习及相关工具平台开发，服务于合成规划、酶催化预测和分子发现等应用场景。
+现于浙江大学药学院从事博士后研究工作，合作导师为侯廷军教授；博士及硕士阶段师从姚小军教授。主要研究方向为人工智能辅助药物设计与智能化学，重点关注人工智能辅助合成规划、酶催化相关预测及专业化科研智能体等方向。研究工作融合机器学习、化学信息学和生物信息学等方法，围绕单步逆合成预测、反应条件推荐、多步合成规划、酶活性位点注释和酶功能预测等问题，发展了一系列算法模型与应用平台。主持国家自然科学基金青年项目、国家资助博士后研究人员计划 C 档等项目。在 Nat. Commun.、Chem. Rev.、Research、Chem. Eng. J.、J. Med. Chem.、J. Chem. Inf. Model. 等期刊发表 SCI 论文 <span id="total_pub_summary">39</span> 篇，其中第一作者及共同第一作者论文 11 篇，Nature 系列期刊论文 2 篇，相关成果累计被引 <strong id="total_cit">1100+</strong> 次。
+
+<div class="experience-list" markdown="1">
+
+### 科研与教育经历
+
+2024.09-至今，浙江大学，药学院，药学，博士后，合作导师：侯廷军教授
+
+2021.09-2024.08，澳门科技大学，中医药学院，中药学，博士研究生，导师：姚小军教授
+
+2019.11-2021.06，腾讯，量子实验室，研究实习生，导师：谢昌谕博士
+
+2018.09-2021.06，兰州大学，化学化工学院，化学信息学，硕士研究生，导师：姚小军教授
+
+2014.09-2018.06，兰州大学，化学化工学院，化学（基地班），本科
+
+</div>
+
+
 
 # 近期动态
 
@@ -67,7 +88,7 @@ redirect_from:
 
 # 科研成果
 
-**概况。** 已发表论文 <span id="total_pub_summary">39</span> 篇，其中第一作者及共同第一作者论文 11 篇；以第一/共同第一作者在 *Nature Communications* 发表论文 2 篇。`#` 表示共同第一作者，`*` 表示通讯作者。
+`#` 表示共同第一作者，`*` 表示通讯作者。
 
 ## 第一及共同第一作者论文
 
@@ -159,17 +180,3 @@ redirect_from:
 - **2018-2021** 兰州大学研究生学业奖学金。
 - **2017.10** 兰州大学本科生三等奖学金。
 - **2017.09** 兰州大学优秀研究生培养奖学金。
-
-# 教育及科研经历
-
-<div class="edu-table" markdown="1">
-
-| 时间 | 单位 | 院系/部门 | 学科方向 | 经历 |
-|---|---|---|---|---|
-| 2024.09-至今 | 浙江大学 | 药学院 | 药学 | 博士后，合作导师：侯廷军教授 |
-| 2021.09-2024.08 | 澳门科技大学 | 中医药学院 | 中药学 | 博士研究生，导师：姚小军教授 |
-| 2019.11-2021.06 | 腾讯 | 量子实验室 | -- | 研究实习生，导师：谢昌谕博士 |
-| 2018.09-2021.06 | 兰州大学 | 化学化工学院 | 化学信息学 | 硕士研究生，导师：姚小军教授 |
-| 2014.09-2018.06 | 兰州大学 | 化学化工学院 | 化学（基地班） | 本科 |
-
-</div>
