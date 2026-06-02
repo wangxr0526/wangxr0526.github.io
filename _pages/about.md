@@ -20,9 +20,9 @@ redirect_from:
     <a class="cv-button" href="https://scholar.google.com/citations?user=uyN1Gf4AAAAJ">Google Scholar</a>
   </div>
   <div class="cv-metrics">
-    <div><strong id="total_pub">39</strong><span>发表论文</span></div>
+    <div><strong>39</strong><span>SCI 论文</span></div>
     <div><strong>11</strong><span>第一/共同第一作者论文</span></div>
-    <div><strong id="total_cit">1100+</strong><span>Google Scholar 引用</span></div>
+    <div><strong>1100+</strong><span>Google Scholar 引用</span></div>
     <div><strong>1</strong><span>授权发明专利</span></div>
   </div>
 </section>
@@ -33,7 +33,7 @@ redirect_from:
 
 # 近期动态
 
-- **2026.04** 已获得深圳理工大学合成生物学院助理教授聘任意向，预计于 2026 年 9 月底入职。未来课题组将面向 AI for Chemistry、合成规划、酶催化与合成生物学交叉方向招收博士生、硕士生、研究助理教授以及科研助理，欢迎感兴趣的同学和青年学者咨询交流。
+- **2026.04** 已获得深圳理工大学合成生物学院助理教授聘任意向，预计于 2026 年 9 月底入职。未来课题组将面向 AI for Chemistry、酶催化与合成生物学交叉方向招收博士生、硕士生、研究助理教授以及科研助理，欢迎感兴趣的同学和青年学者咨询交流。
 - **2026.01** 主持青年科学基金项目：基于人工智能的混合酶促-有机合成规划算法研究与智能应用平台开发。
 - **2025.06** 发明专利 CN116227485B 获得授权，专利名称为“一种反应条件预测模型训练方法及装置”。
 - **2025** 混合酶促-有机合成规划平台相关论文发表于 *Nature Communications*。
@@ -66,7 +66,7 @@ redirect_from:
 
 # 科研成果
 
-**概况。** 已发表论文 <span id="total_pub_summary">39</span> 篇，其中第一作者及共同第一作者论文 11 篇；以第一/共同第一作者在 *Nature Communications* 发表论文 2 篇。`#` 表示共同第一作者，`*` 表示通讯作者。
+**概况。** 已发表 SCI 论文 39 篇，其中第一作者及共同第一作者论文 11 篇；以第一/共同第一作者在 *Nature Communications* 发表论文 2 篇。`#` 表示共同第一作者，`*` 表示通讯作者。
 
 ## 第一及共同第一作者论文
 
@@ -87,7 +87,7 @@ redirect_from:
 </div>
 
 <details class="pub-details" open>
-<summary>其他共同作者论文</summary>
+<summary>其他共同作者论文 (定时更新) </summary>
 
 <div class="pub-list" markdown="1">
 
