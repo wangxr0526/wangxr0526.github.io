@@ -113,7 +113,7 @@ h1:before, .anchor:before {
   --cv-ink: #15272b;
   --cv-muted: #5c6670;
   --cv-border: #d8d3c7;
-  --cv-paper: #fbfaf6;
+  --cv-paper: #ffffff;
   --cv-sage: #1f5f5b;
   --cv-rust: #b56b3f;
   --cv-gold: #c7a449;
@@ -121,11 +121,7 @@ h1:before, .anchor:before {
 }
 
 body {
-  background:
-    linear-gradient(90deg, rgba(31, 95, 91, 0.05) 1px, transparent 1px),
-    linear-gradient(180deg, rgba(181, 107, 63, 0.04) 1px, transparent 1px),
-    var(--cv-paper);
-  background-size: 44px 44px;
+  background: #ffffff;
   color: var(--cv-ink);
 }
 
@@ -154,10 +150,7 @@ body {
   margin: 0 0 2rem;
   border: 1px solid var(--cv-border);
   border-radius: 8px;
-  background:
-    linear-gradient(135deg, rgba(31, 95, 91, 0.12), transparent 34%),
-    linear-gradient(315deg, rgba(199, 164, 73, 0.18), transparent 38%),
-    #fffdf8;
+  background: #ffffff;
   overflow: hidden;
 }
 
