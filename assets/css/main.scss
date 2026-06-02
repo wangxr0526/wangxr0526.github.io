@@ -359,6 +359,13 @@ body {
   background: #fffdf8;
 }
 
+.masthead__menu-lang a {
+  border: 1px solid rgba(31, 95, 91, 0.24);
+  border-radius: 8px;
+  padding: 0.35rem 0.6rem;
+  color: var(--cv-sage);
+}
+
 @media (max-width: 900px) {
   .cv-metrics {
     grid-template-columns: 1fr 1fr;

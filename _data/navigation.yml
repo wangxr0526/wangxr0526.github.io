@@ -17,3 +17,22 @@ main:
 
   - title: "个人荣誉"
     url: "/#honors"
+
+main_en:
+  - title: "About"
+    url: "/en/#about-me"
+
+  - title: "Research"
+    url: "/en/#research"
+
+  - title: "Publications"
+    url: "/en/#publications"
+
+  - title: "Grants"
+    url: "/en/#projects"
+
+  - title: "Tools"
+    url: "/en/#tools"
+
+  - title: "Honors"
+    url: "/en/#honors"

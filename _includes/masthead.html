@@ -4,10 +4,18 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">主页</a></li>
-          {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+          {% assign nav_links = site.data.navigation.main %}
+          {% assign lang_switch_url = '/en/' | relative_url %}
+          {% assign lang_switch_label = 'English' %}
+          {% if page.lang == 'en' %}
+            {% assign nav_links = site.data.navigation.main_en %}
+            {% assign lang_switch_url = '/' | relative_url %}
+            {% assign lang_switch_label = '中文' %}
+          {% endif %}
+          {% for link in nav_links %}
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" target="_self">{{ link.title }}</a></li>
           {% endfor %}
+          <li class="masthead__menu-item masthead__menu-lang"><a href="{{ lang_switch_url }}" target="_self">{{ lang_switch_label }}</a></li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
