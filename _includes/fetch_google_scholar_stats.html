@@ -21,9 +21,10 @@
 
             var publications = data['publications'] || {};
             var publicationKeys = Object.keys(publications);
-            if (publicationKeys.length > 0) {
-                setElementText('total_pub', publicationKeys.length);
-                setElementText('total_pub_summary', publicationKeys.length);
+            var totalPublications = data['publication_count'] || publicationKeys.length;
+            if (totalPublications > 0) {
+                setElementText('total_pub', totalPublications);
+                setElementText('total_pub_summary', totalPublications);
             }
             setElementText('total_cit', data['citedby']);
 
