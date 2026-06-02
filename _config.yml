@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xiaorui Wang | Academic Homepage"
-description              : "Xiaorui Wang is a postdoctoral fellow at Zhejiang University working on AI-assisted synthesis planning, enzymatic catalysis prediction, and AI-driven molecular generation."
+title                    : "王晓瑞 | 个人学术主页"
+description              : "王晓瑞，浙江大学药学院博士后，主要从事人工智能辅助合成规划、酶催化预测和人工智能分子生成方法研究。"
 repository               : "wangxr0526/wangxr0526.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xiaorui Wang | 王晓瑞"
+  name             : "王晓瑞"
   avatar           : "images/xiaorui-wang.jpg"
-  bio              : "Postdoctoral Fellow, College of Pharmaceutical Sciences, Zhejiang University"
-  location         : "Hangzhou, China"
-  employer         : "Zhejiang University"
+  bio              : "浙江大学药学院博士后"
+  location         : "中国杭州"
+  employer         : "浙江大学"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uyN1Gf4AAAAJ"
   email            : "wangxr2018@lzu.edu.cn"
