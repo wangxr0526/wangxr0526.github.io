@@ -47,7 +47,7 @@ I am currently a postdoctoral researcher at the College of Pharmaceutical Scienc
 
 2018.09-2021.06, Lanzhou University, College of Chemistry and Chemical Engineering, Chemoinformatics, Master's student, advisor: Prof. Xiaojun Yao
 
-2014.09-2018.06, Lanzhou University, College of Chemistry and Chemical Engineering, Chemistry (Base Class), Undergraduate student
+2014.09-2018.06, Lanzhou University, College of Chemistry and Chemical Engineering, Chemistry, Undergraduate student
 
 </div>
 
