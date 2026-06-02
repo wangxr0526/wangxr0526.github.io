@@ -20,20 +20,20 @@ redirect_from:
     <a class="cv-button" href="https://scholar.google.com/citations?user=uyN1Gf4AAAAJ">Google Scholar</a>
   </div>
   <div class="cv-metrics">
-    <div><strong>39</strong><span>SCI 论文</span></div>
+    <div><strong id="total_pub">39</strong><span>发表论文</span></div>
     <div><strong>11</strong><span>第一/共同第一作者论文</span></div>
-    <div><strong>1100+</strong><span>Google Scholar 引用</span></div>
+    <div><strong id="total_cit">1100+</strong><span>Google Scholar 引用</span></div>
     <div><strong>1</strong><span>授权发明专利</span></div>
   </div>
 </section>
 
 # 个人简介
 
-本人在硕士、博士及博士后研究阶段长期围绕人工智能化学方法与平台开展研究。现于浙江大学药学院从事博士后研究，合作导师为侯廷军教授；博士和硕士阶段师从姚小军教授。研究工作聚焦深度学习、反应信息学、蛋白质表征学习、图神经网络、强化学习及相关工具平台开发，服务于合成规划、酶催化预测和分子发现等应用场景。
+我现于浙江大学药学院从事博士后研究工作，师从侯廷军教授；博士和硕士阶段师从姚小军教授。在硕士、博士及博士后研究阶段长期围绕人工智能化学方法与平台开展研究。研究工作聚焦深度学习、反应信息学、蛋白质表征学习、图神经网络、强化学习及相关工具平台开发，服务于合成规划、酶催化预测和分子发现等应用场景。
 
 # 近期动态
 
-- **2026.04** 已获得深圳理工大学合成生物学院助理教授聘任意向，预计于 2026 年 9 月底入职。未来课题组将面向 AI for Chemistry、合成规划、酶催化与合成生物学交叉方向招收博士生、硕士生及研究助理教授，欢迎感兴趣的同学和青年学者咨询交流。
+- **2026.04** 已获得深圳理工大学合成生物学院助理教授聘任意向，预计于 2026 年 9 月底入职。未来课题组将面向 AI for Chemistry、合成规划、酶催化与合成生物学交叉方向招收博士生、硕士生、研究助理教授以及科研助理，欢迎感兴趣的同学和青年学者咨询交流。
 - **2026.01** 主持青年科学基金项目：基于人工智能的混合酶促-有机合成规划算法研究与智能应用平台开发。
 - **2025.06** 发明专利 CN116227485B 获得授权，专利名称为“一种反应条件预测模型训练方法及装置”。
 - **2025** 混合酶促-有机合成规划平台相关论文发表于 *Nature Communications*。
@@ -47,17 +47,17 @@ redirect_from:
 
 <div class="research-card" markdown="1">
 ### 人工智能辅助合成规划算法
-围绕单步逆合成预测与反应条件推荐，基于专家知识启发设计生成式人工智能模型，构建具备化学可解释性的单步预测算法与通用反应条件推荐模型；进一步融合强化学习技术，优化多步合成规划策略，形成系统性的混合酶促-有机合成路径规划框架，支持从分子合成路径设计到反应合理性评估、条件推荐与产率估计的一体化合成规划体系。
+拟围绕人工智能辅助合成规划方向开展研究，重点关注反应预测、条件推荐、多步合成路线设计和路径合理性评估等问题。研究希望将化学知识、实验数据与智能方法相结合，发展具有可解释性、通用性和实用价值的合成规划方法，为药物分子、功能分子及复杂有机分子的高效合成设计提供支持。相关工作也希望面向自动化、智能化合成平台建设，推动计算预测、实验决策与结果评估之间的协同衔接。
 </div>
 
 <div class="research-card" markdown="1">
 ### 酶催化预测方法
-依托多模态深度学习技术，融合蛋白语言模型、蛋白质拓扑结构与反应语义信息，发展高速高精度的酶催化活性位点识别算法；通过可学习的反应指纹和自然语言处理模型实现对酶促反应具有活性的酶类推荐；结合注意力机制与图神经网络，构建高效的酶-底物相互作用预测方法，服务于底物筛选任务。
+拟围绕酶催化预测与智能酶设计方向开展研究，重点关注酶功能识别、催化位点解析、酶促反应匹配、酶-底物相互作用分析、催化机理解析以及酶设计与改造等问题。研究希望结合生物催化知识、蛋白质信息与数据驱动方法，探索高效、可解释的酶催化预测策略，为酶功能注释、底物筛选、酶分子设计和绿色合成应用提供方法支持，并为智能化合成平台中的生物催化模块建设奠定基础。
 </div>
 
 <div class="research-card" markdown="1">
-### 人工智能驱动的分子生成方法
-发展融合遗传算法与化学反应启发机制的分子生成模型，显著提升生成分子的可合成性与结构多样性，助力早期分子设计与药物发现。
+### 面向合成规划与酶催化的专业化智能体
+拟探索面向合成规划与酶催化研究的专业化科研智能体，重点关注大语言模型在任务理解、知识整合、工具协同和结果评估中的作用。研究希望将领域算法、化学与生物催化知识、数据库资源及计算工具有机连接，提升复杂科研问题分析和实验决策支持的自动化水平。相关工作也将面向智能化合成平台建设，推动从算法预测到科研工作流辅助的进一步融合。
 </div>
 
 </div>
@@ -66,14 +66,14 @@ redirect_from:
 
 # 科研成果
 
-**概况。** 已发表 SCI 论文 39 篇，其中第一作者及共同第一作者论文 11 篇；以第一/共同第一作者在 *Nature Communications* 发表论文 2 篇。`#` 表示共同第一作者，`*` 表示通讯作者。
+**概况。** 已发表论文 <span id="total_pub_summary">39</span> 篇，其中第一作者及共同第一作者论文 11 篇；以第一/共同第一作者在 *Nature Communications* 发表论文 2 篇。`#` 表示共同第一作者，`*` 表示通讯作者。
 
 ## 第一及共同第一作者论文
 
 <div class="pub-list" markdown="1">
 
-1. Wang, X., Yin, X., Jiang, D., Zhao, H., Wu, Z., Zhang, O., Wang, J., Li, Y., Deng, Y., Liu, H., Luo, P., Han, Y., Hou, T.*, Yao, X.*, & Hsieh, C.-Y.* (2024). Multi-modal deep learning enables efficient and accurate annotation of enzymatic active sites. *Nature Communications*, 15, 7348. (IF: 15.7，Nature 旗下期刊，Nature Index，CAS 1 区 TOP，JCR Q1)
-2. Wang, X.#, Yin, X.#, Zhang, X., Zhao, H., Gu, S., Wu, Z., Zhang, O., Qian, W., Huang, Y., Li, Y., Jiang, D., Wang, M., Liu, H., Yao, X.*, Hsieh, C.-Y.*, & Hou, T.* (2025). A Virtual Platform for Automated Hybrid Organic-Enzymatic Synthesis Planning. *Nature Communications*, 16, 10929. (IF: 15.7，Nature 旗下期刊，Nature Index，CAS 1 区 TOP，JCR Q1)
+1. Wang, X., Yin, X., Jiang, D., Zhao, H., Wu, Z., Zhang, O., Wang, J., Li, Y., Deng, Y., Liu, H., Luo, P., Han, Y., Hou, T.*, Yao, X.*, & Hsieh, C.-Y.* (2024). Multi-modal deep learning enables efficient and accurate annotation of enzymatic active sites. *Nature Communications*, 15, 7348. (IF: 15.7，Nature 子刊，Nature Index，CAS 1 区 TOP，JCR Q1)
+2. Wang, X.#, Yin, X.#, Zhang, X., Zhao, H., Gu, S., Wu, Z., Zhang, O., Qian, W., Huang, Y., Li, Y., Jiang, D., Wang, M., Liu, H., Yao, X.*, Hsieh, C.-Y.*, & Hou, T.* (2025). A Virtual Platform for Automated Hybrid Organic-Enzymatic Synthesis Planning. *Nature Communications*, 16, 10929. (IF: 15.7，Nature 子刊，Nature Index，CAS 1 区 TOP，JCR Q1)
 3. Wang, X, Li Y., Qiu, J., Chen, G., Liu, H., Liao, B.*, Hsieh, C.-Y.*, & Yao, X.* (2021). RetroPrime: A diverse, plausible and transformer-based method for single-step retrosynthesis predictions. *Chemical Engineering Journal*, 420, 129845. (IF: 13.2，CAS 1 区 TOP，JCR Q1)
 4. Wang, X., Hsieh, C.-Y.*, Yin, X., Wang, J., Li, Y., Deng, Y., Jiang, D., Wu, Z., Du, H., Chen, H., Li, Y., Liu, H., Wang, Y., Luo, P., Hou, T.*, & Yao, X.* (2023). Generic interpretable reaction condition predictions with open reaction condition datasets and unsupervised learning of reaction center. *Research*, 6, 0231. (IF: 10.7，CAS 1 区 TOP，JCR Q1)
 5. Wang, J.#, Wang, X.#, Sun, H., Wang, M., Zeng, Y., Jiang, D., Wu, Z., Liu, Z., Liao, B., Yao, X., Hsieh, C.-Y.*, Cao, D.*, Chen, X.*, & Hou, T.* (2022). ChemistGA: A chemical synthesizable accessible molecular generation algorithm for real-world drug discovery. *Journal of Medicinal Chemistry*, 65(18), 12482-12496. (共同第一作者，IF: 6.8，CAS 1 区 TOP，JCR Q1)
@@ -91,15 +91,15 @@ redirect_from:
 
 <div class="pub-list" markdown="1">
 
-12. Wu, Z., Zhang, O., Wang, X., Fu, L., Zhao, H., Wang, J., Du, H., Jiang, D., Deng, Y., Cao, D.*, Hsieh, C.-Y.*, & Hou, T.* (2024). Leveraging language model for advanced multiproperty molecular optimization via prompt engineering. *Nature Machine Intelligence*, 6(11). (IF: 23.9，Nature 旗下期刊，Nature Index，CAS 1 区 TOP，JCR Q1)
-13. Wang, J., Hsieh, C.-Y., Wang, M., Wang, X., Wu, Z., Jiang, D., Liao, B., Zhang, X., Yang, B., He, Q., Cao, D.*, Chen, X.*, & Hou, T.* (2021). Multi-constraint molecular generation based on conditional transformer, knowledge distillation and reinforcement learning. *Nature Machine Intelligence*, 3(10), 914-922. (IF: 23.9，Nature 旗下期刊，Nature Index，CAS 1 区 TOP，JCR Q1)
-14. Li, Y., Hsieh, C.-Y., Lu, R., Gong, X., Wang, X., Li, P., Liu, S., Tian, Y., Jiang, D., Yan, J., Bai, Q., Liu, H., Zhang, S., & Yao, X.* (2022). An adaptive graph learning method for automated molecular interactions and properties predictions. *Nature Machine Intelligence*, 4(7). (IF: 23.9，Nature 旗下期刊，Nature Index，CAS 1 区 TOP，JCR Q1)
-15. Zhao, H., Zhang, O., Jiang, D., Wu, Z., Du, H., Wang, X., Zhao, Y., Huang, Y., Ge, J., Hou, T.* & Yu, K.* (2025). Protein-peptide docking with a rational and accurate diffusion generative model. *Nature Machine Intelligence*, 7, 1308-1321. (IF: 23.9，Nature 旗下期刊，Nature Index，CAS 1 区 TOP，JCR Q1)
-16. Zhang, O., Wang, T., Weng, G., Jiang, D., Wang, N., Wang, X., Zhao, H., Wu, J., Wang, E., Chen, G., Deng, Y., Pan, P., Kang, Y.*, Hsieh, C.-Y.*, & Hou, T.* (2023). Learning on topological surface and geometric structure for 3D molecular generation. *Nature Computational Science*, 3(10), 849-859. (IF: 18.3，Nature 旗下期刊，JCR Q1)
-17. Zhu, Y., Li, S., Chen, J., Zhao, D., Wang, X., Li, Y., Liu, Y., Kong, Y., Zhang, B., Liu, C., Hou, T.* & Hsieh, C.-Y.* (2025). SynGFN: learning across chemical space with generative flow-based molecular discovery. *Nature Computational Science*, doi: 10.1038/s43588-025-00902-w. (IF: 18.3，Nature 旗下期刊，JCR Q1)
-18. Tian, Y., Lu, R., Gong, X., Zhao, W., Li, Y., Wang, X., Jia, X., Li, Q., Yang, Y., Tong, H. H. Y., Arrais, J. P., Yao, X.*, & Liu, H.* (2025). Enhancing kinase-inhibitor activity and selectivity prediction through contrastive learning. *Nature Communications*, 16, 10860. (IF: 15.7，Nature 旗下期刊，Nature Index，CAS 1 区 TOP，JCR Q1)
-19. Wang, M., Li, S., Wang, J., Zhang, O., Du, H., Jiang, D., Wu, Z., Deng, Y., Kang, Y., Pan, P., Li, D., Wang, X., Yao, X., Hou, T.*, & Hsieh, C.-Y.* (2024). ClickGen: Directed exploration of synthesizable chemical space via modular reactions and reinforcement learning. *Nature Communications*, 15(1). (IF: 15.7，Nature 旗下期刊，Nature Index，CAS 1 区 TOP，JCR Q1)
-20. Deng, Y., Zhao, X., Sun, H., Chen, Y., Wang, X., Xue, X., Li, L., Song, J., Hsieh, C.-Y., Hou, T., Pan, X., Alomar, T., Ji, X.*, & Wang, X.* (2025). RSGPT: a generative transformer model for retrosynthesis planning pre-trained on ten billion datapoints. *Nature Communications*, 16(1), 7012. (IF: 15.7，Nature 旗下期刊，Nature Index，CAS 1 区 TOP，JCR Q1)
+12. Wu, Z., Zhang, O., Wang, X., Fu, L., Zhao, H., Wang, J., Du, H., Jiang, D., Deng, Y., Cao, D.*, Hsieh, C.-Y.*, & Hou, T.* (2024). Leveraging language model for advanced multiproperty molecular optimization via prompt engineering. *Nature Machine Intelligence*, 6(11). (IF: 23.9，Nature 子刊，Nature Index，CAS 1 区 TOP，JCR Q1)
+13. Wang, J., Hsieh, C.-Y., Wang, M., Wang, X., Wu, Z., Jiang, D., Liao, B., Zhang, X., Yang, B., He, Q., Cao, D.*, Chen, X.*, & Hou, T.* (2021). Multi-constraint molecular generation based on conditional transformer, knowledge distillation and reinforcement learning. *Nature Machine Intelligence*, 3(10), 914-922. (IF: 23.9，Nature 子刊，Nature Index，CAS 1 区 TOP，JCR Q1)
+14. Li, Y., Hsieh, C.-Y., Lu, R., Gong, X., Wang, X., Li, P., Liu, S., Tian, Y., Jiang, D., Yan, J., Bai, Q., Liu, H., Zhang, S., & Yao, X.* (2022). An adaptive graph learning method for automated molecular interactions and properties predictions. *Nature Machine Intelligence*, 4(7). (IF: 23.9，Nature 子刊，Nature Index，CAS 1 区 TOP，JCR Q1)
+15. Zhao, H., Zhang, O., Jiang, D., Wu, Z., Du, H., Wang, X., Zhao, Y., Huang, Y., Ge, J., Hou, T.* & Yu, K.* (2025). Protein-peptide docking with a rational and accurate diffusion generative model. *Nature Machine Intelligence*, 7, 1308-1321. (IF: 23.9，Nature 子刊，Nature Index，CAS 1 区 TOP，JCR Q1)
+16. Zhang, O., Wang, T., Weng, G., Jiang, D., Wang, N., Wang, X., Zhao, H., Wu, J., Wang, E., Chen, G., Deng, Y., Pan, P., Kang, Y.*, Hsieh, C.-Y.*, & Hou, T.* (2023). Learning on topological surface and geometric structure for 3D molecular generation. *Nature Computational Science*, 3(10), 849-859. (IF: 18.3，Nature 子刊，JCR Q1)
+17. Zhu, Y., Li, S., Chen, J., Zhao, D., Wang, X., Li, Y., Liu, Y., Kong, Y., Zhang, B., Liu, C., Hou, T.* & Hsieh, C.-Y.* (2025). SynGFN: learning across chemical space with generative flow-based molecular discovery. *Nature Computational Science*, doi: 10.1038/s43588-025-00902-w. (IF: 18.3，Nature 子刊，JCR Q1)
+18. Tian, Y., Lu, R., Gong, X., Zhao, W., Li, Y., Wang, X., Jia, X., Li, Q., Yang, Y., Tong, H. H. Y., Arrais, J. P., Yao, X.*, & Liu, H.* (2025). Enhancing kinase-inhibitor activity and selectivity prediction through contrastive learning. *Nature Communications*, 16, 10860. (IF: 15.7，Nature 子刊，Nature Index，CAS 1 区 TOP，JCR Q1)
+19. Wang, M., Li, S., Wang, J., Zhang, O., Du, H., Jiang, D., Wu, Z., Deng, Y., Kang, Y., Pan, P., Li, D., Wang, X., Yao, X., Hou, T.*, & Hsieh, C.-Y.* (2024). ClickGen: Directed exploration of synthesizable chemical space via modular reactions and reinforcement learning. *Nature Communications*, 15(1). (IF: 15.7，Nature 子刊，Nature Index，CAS 1 区 TOP，JCR Q1)
+20. Deng, Y., Zhao, X., Sun, H., Chen, Y., Wang, X., Xue, X., Li, L., Song, J., Hsieh, C.-Y., Hou, T., Pan, X., Alomar, T., Ji, X.*, & Wang, X.* (2025). RSGPT: a generative transformer model for retrosynthesis planning pre-trained on ten billion datapoints. *Nature Communications*, 16(1), 7012. (IF: 15.7，Nature 子刊，Nature Index，CAS 1 区 TOP，JCR Q1)
 21. Chen, Z., Gu, C.*, Tan, S., Wang, X., Li, Y., He, M., Lu, R., Sun, S., Hsieh, C.*, Yao, X.*, Liu, H.*, & Heng P.-A. (2025). Interpretable PROTAC Degradation Prediction With Structure-Informed Deep Ternary Attention Framework. *Advanced Science*, e08138. (IF: 14.1，CAS 1 区 TOP，JCR Q1)
 22. Zhang, X., Jiang, L., Weng, G., Shen, C., Zhang, O., Liu, M., Zhang, C., Gu, S., Wang, J., Wang, X., Du, H., Zhang, H., Zhang, K., Wang, E.* & Hou, T.* (2025). HawkDock version 2: an updated web server to predict and analyze the structures of protein-protein complexes. *Nucleic Acids Research*, 53(W1), W306-W315. (IF: 13.1，CAS 1 区 TOP，JCR Q1)
 23. Li, Y., Li, P., Yang, X., Hsieh, C.-Y., Zhang, S., Wang, X., Lu, R., Liu, H., & Yao, X.* (2021). Introducing block design in graph neural networks for molecular properties prediction. *Chemical Engineering Journal*, 414, 128817. (IF: 13.3，CAS 1 区 TOP，JCR Q1)
@@ -131,7 +131,6 @@ redirect_from:
 
 - **2026.01-2028.12** 青年科学基金项目，22503082，主持，30 万元。项目名称：基于人工智能的混合酶促-有机合成规划算法研究与智能应用平台开发。
 - **2024.10-2026.10** 国家资助博士后研究人员计划 C 档，GZC20252369，主持，24 万元。
-- **2024.10-至今** 教育部博士后海外引才专项资助。
 
 </div>
 
@@ -139,9 +138,9 @@ redirect_from:
 
 # 工具与平台
 
-- [EasIFA GitHub 仓库](https://github.com/wangxr0526/EasIFA) 与 [EasIFA2.0 在线服务](https://cadd.zju.edu.cn/easifa/)：基于多模态深度学习的酶催化活性位点标注系统。
-- [ChemEnzyRetroPlanner GitHub 仓库](https://github.com/wangxr0526/ChemEnzyRetroPlanner) 与 [ChemEnzyRetroPlanner 在线演示](https://cadd.zju.edu.cn/retroplanner/)：面向混合酶促-有机合成路径设计的智能规划平台。
-- [RetroPrime](https://github.com/wangxr0526/RetroPrime)：基于 Transformer 的单步逆合成预测算法。
+- [EasIFA GitHub 仓库](https://github.com/wangxr0526/EasIFA) 与 [EasIFA2.0 在线计算服务](https://cadd.zju.edu.cn/easifa/)：基于多模态深度学习的酶催化活性位点标注系统。
+- [ChemEnzyRetroPlanner GitHub 仓库](https://github.com/wangxr0526/ChemEnzyRetroPlanner) 与 [ChemEnzyRetroPlanner 演示网站](https://cadd.zju.edu.cn/retroplanner/)：面向混合酶促-有机合成路径设计的智能规划平台。
+- [RetroPrime](https://github.com/wangxr0526/RetroPrime)：基于 Transformer、模拟化学家逆合成思维的单步逆合成预测算法。
 - [Parrot](https://github.com/wangxr0526/Parrot)：自回归通用反应条件推荐工具。
 - [Egret](https://github.com/xiaodanyin/Egret)：基于对比学习增强的反应产率预测模型。
 - [CODD-PRED](https://codd.iddd.group/)：集成小分子靶标识别与生物活性预测平台。
@@ -170,6 +169,6 @@ redirect_from:
 | 2021.09-2024.08 | 澳门科技大学 | 中医药学院 | 中药学 | 博士研究生，导师：姚小军教授 |
 | 2019.11-2021.06 | 腾讯 | 量子实验室 | -- | 研究实习生，导师：谢昌谕博士 |
 | 2018.09-2021.06 | 兰州大学 | 化学化工学院 | 化学信息学 | 硕士研究生，导师：姚小军教授 |
-| 2014.09-2018.06 | 兰州大学 | 化学化工学院 | 化学（国家理科基础科学研究和教学人才培养基地） | 本科 |
+| 2014.09-2018.06 | 兰州大学 | 化学化工学院 | 化学（基地班） | 本科 |
 
 </div>
