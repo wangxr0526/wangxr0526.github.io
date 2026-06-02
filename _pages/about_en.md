@@ -39,9 +39,9 @@ I am currently a postdoctoral researcher at the College of Pharmaceutical Scienc
 
 2024.09-present, Zhejiang University, College of Pharmaceutical Sciences, Pharmaceutical Sciences, Postdoctoral researcher, advisor: Prof. Tingjun Hou
 
-2021.09-2024.08, Macau University of Science and Technology, Faculty of Chinese Medicine, Chinese Medicine, PhD student, advisor: Prof. Xiaojun Yao
+2022.06-2024.08, Zhejiang University, College of Pharmaceutical Sciences, Visiting student, advisor: Prof. Tingjun Hou's group
 
-2022.06-2024.08, Zhejiang University, College of Pharmaceutical Sciences, Visiting student in Prof. Tingjun Hou's group
+2021.09-2024.08, Macau University of Science and Technology, Faculty of Chinese Medicine, Chinese Medicine, PhD student, advisor: Prof. Xiaojun Yao
 
 2019.11-2021.06, Tencent, Quantum Laboratory, Research intern, advisor: Dr. Chang-Yu Hsieh
 
