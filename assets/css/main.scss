@@ -270,13 +270,14 @@ body {
 }
 
 .research-grid {
-  display: grid;
-  grid-template-columns: 1fr;
+  display: flex;
+  flex-direction: column;
   gap: 1rem;
   margin: 1.25rem 0;
 }
 
 .research-card {
+  width: 100%;
   border-top: 4px solid var(--cv-sage);
   border-radius: 8px;
   padding: 1rem;
@@ -369,8 +370,7 @@ body {
     padding: 1.35rem 1rem;
   }
 
-  .cv-metrics,
-  .research-grid {
+  .cv-metrics {
     grid-template-columns: 1fr;
   }
 
